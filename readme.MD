@@ -23,7 +23,7 @@
    ```
 2. Navigate to the project directory:
    ```
-   cd illumio
+   cd Illumio
    ```
 
 ## Usage
